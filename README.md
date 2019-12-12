@@ -17,6 +17,7 @@
  - Unreal Engine 4 - 4.23.1
  - Adobe Photoshop
  - Logic Pro X
+ - iMovie
  
  # Team
  - Peadar Callaghan
